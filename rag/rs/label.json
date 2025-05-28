@@ -1,0 +1,30 @@
+[
+  {
+    "description": "A satellite image of farmland, displaying cultivated plots, farm boundaries, and crop patterns.",
+    "tags": 0
+  },
+  {
+    "description": "A satellite image of a forest area, filled with dense tree cover and natural green vegetation.",
+    "tags": 1
+  },
+  {
+    "description": "A satellite image of grassland with large open meadows, scattered bushes, and grassy textures..",
+    "tags": 2
+  },
+  {
+    "description": "A satellite image of an industry zone, showing manufacturing plants, storage buildings, and industrial yards.",
+    "tags": 3
+  },
+   {
+    "description": "A satellite image of a parkinglot, packed with vehicles and neatly arranged parking lines.",
+    "tags": 4
+  },
+  {
+    "description": "A satellite image of a resident area, highlighting neighborhoods, houses, and residential blocks.",
+    "tags": 5
+  },
+   {
+    "description": "A satellite image of a river, showing winding water channels cutting through the terrain.",
+    "tags": 6
+  }
+]

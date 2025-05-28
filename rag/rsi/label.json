@@ -1,0 +1,18 @@
+[
+  {
+    "description": "A satellite image of cloud formations, showing fluffy, white, and scattered clouds over the landscape.",
+    "tags": 0
+  },
+  {
+    "description": "A satellite image of a desert region, featuring sandy textures, dunes, and barren, arid terrain.",
+    "tags": 1
+  },
+  {
+    "description": "A satellite image of a greenarea covered with dense vegetation, forests, grasslands, and patches of cultivated land.",
+    "tags": 2
+  },
+  {
+    "description": "A satellite image of water bodies, including rivers, lakes, oceans, or reservoirs with visible blue surfaces.",
+    "tags": 3
+  }
+]

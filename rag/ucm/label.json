@@ -1,0 +1,86 @@
+[
+  {
+    "description": "A satellite image of agricultural fields showing rows of crops and patches of farmland.",
+    "tags": 0
+  },
+  {
+    "description": "A satellite image of an airplane, possibly on a runway or parked at an airport.",
+    "tags": 1
+  },
+  {
+    "description": "A satellite image of a baseball diamond with a clearly visible infield and outfield.",
+    "tags": 2
+  },
+  {
+    "description": "A satellite image of a sandy beach along a coastline, with waves and possibly some beachgoers.",
+    "tags": 3
+  },
+  {
+    "description": "A satellite image of urban buildings, showcasing rooftops and city structures.",
+    "tags": 4
+  },
+  {
+    "description": "A satellite image of chaparral vegetation, featuring dense shrubs and dry landscapes.",
+    "tags": 5
+  },
+  {
+    "description": "A satellite image of a dense residential area with closely packed houses.",
+    "tags": 6
+  },
+  {
+    "description": "A satellite image of a dense forest with trees covering a large area.",
+    "tags": 7
+  },
+  {
+    "description": "A satellite image of a freeway with multiple lanes and vehicles in motion.",
+    "tags": 8
+  },
+  {
+    "description": "A satellite image of a golf course with green fairways, sand traps, and possibly golfers.",
+    "tags": 9
+  },
+  {
+    "description": "A satellite image of a harbor with boats docked and water surrounding the area.",
+    "tags": 10
+  },
+  {
+    "description": "A satellite image of a road intersection with crossing streets and vehicles.",
+    "tags": 11
+  },
+  {
+    "description": "A satellite image of a medium density residential area with houses and some open spaces.",
+    "tags": 12
+  },
+  {
+    "description": "A satellite image of a mobile home park with rows of trailers and small lots.",
+    "tags": 13
+  },
+  {
+    "description": "A satellite image of an overpass or bridge crossing over a road or railway.",
+    "tags": 14
+  },
+  {
+    "description": "A satellite image of a parking lot filled with parked cars and marked spaces.",
+    "tags": 15
+  },
+  {
+    "description": "A satellite image of a river winding through a landscape, possibly with surrounding vegetation.",
+    "tags": 16
+  },
+  {
+    "description": "A satellite image of an airport runway with planes or markings visible.",
+    "tags": 17
+  },
+  {
+    "description": "A satellite image of a sparse residential area with scattered houses.",
+    "tags": 18
+  },
+  {
+    "description": "A satellite image of storage tanks, possibly for oil or water, in an industrial area.",
+    "tags": 19
+  },
+  {
+    "description": "A satellite image of a tennis court with clear lines and possibly players.",
+    "tags": 20
+  }
+]
